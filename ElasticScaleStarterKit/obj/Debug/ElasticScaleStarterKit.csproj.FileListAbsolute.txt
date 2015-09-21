@@ -1,0 +1,13 @@
+c:\repos\ElasticScale2\ElasticScaleStarterKit\bin\Debug\ElasticScaleStarterKit.exe.config
+c:\repos\ElasticScale2\ElasticScaleStarterKit\bin\Debug\InitializeShard.sql
+c:\repos\ElasticScale2\ElasticScaleStarterKit\bin\Debug\ElasticScaleStarterKit.exe
+c:\repos\ElasticScale2\ElasticScaleStarterKit\bin\Debug\ElasticScaleStarterKit.pdb
+c:\repos\ElasticScale2\ElasticScaleStarterKit\bin\Debug\Microsoft.Azure.SqlDatabase.ElasticScale.Client.dll
+c:\repos\ElasticScale2\ElasticScaleStarterKit\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Data.dll
+c:\repos\ElasticScale2\ElasticScaleStarterKit\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+c:\repos\ElasticScale2\ElasticScaleStarterKit\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+c:\repos\ElasticScale2\ElasticScaleStarterKit\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Data.xml
+c:\repos\ElasticScale2\ElasticScaleStarterKit\bin\Debug\Microsoft.Azure.SqlDatabase.ElasticScale.Client.xml
+c:\repos\ElasticScale2\ElasticScaleStarterKit\obj\Debug\ElasticScaleStarterKit.csprojResolveAssemblyReference.cache
+c:\repos\ElasticScale2\ElasticScaleStarterKit\obj\Debug\ElasticScaleStarterKit.exe
+c:\repos\ElasticScale2\ElasticScaleStarterKit\obj\Debug\ElasticScaleStarterKit.pdb
